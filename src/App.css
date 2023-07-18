@@ -1,0 +1,59 @@
+
+.model{
+    width: 370px;
+    border-radius: 2%;
+}
+.container{
+    width: 370px;
+    background-color: rgba(0, 0, 0, 0.818);
+    margin: auto;
+    margin-top: 2%;
+    border-radius: 2%;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.696);
+    color: white;
+}
+.name{
+    color: white;
+}
+.Backend{
+    color: white;
+    margin-top: -3%;
+    color: salmon;
+}
+.email{
+    padding: 2% 6%;
+    border-radius: 15px;
+    margin-right: 4%;
+}
+.linkdin{
+    padding: 2% 5%;
+    border-radius: 15px;
+    background-color: skyblue;
+}
+.about{
+    display: block;
+    color: white;
+}
+.info{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.About_title{
+    margin-top: 4%;
+    color: white;
+}
+.socials{
+    padding: 2%;
+    width: 100%;
+    /* background-color: rgba(0, 0, 0, 0.231); */
+}
+.bi{
+    margin: 3%;
+}
+.footer{
+    margin-top: 7%;
+    padding-bottom: 2%;
+}
